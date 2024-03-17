@@ -1,0 +1,15 @@
+
+h
+java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(òŸÊæ8‚œôò­1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ü½Äıÿÿÿÿ8„œôò­1
+
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—±ˆõ8Œœôò­1
+
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çí–ë8Œœôò­1
+£
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î¥¥øÿÿÿÿ8Œœôò­1
+£
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡¤û£úÿÿÿÿ8œôò­1
+£
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì£ª±ÿÿÿÿÿ8œôò­1

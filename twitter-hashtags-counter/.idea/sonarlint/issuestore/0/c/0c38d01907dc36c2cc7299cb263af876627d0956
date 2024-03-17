@@ -1,0 +1,9 @@
+
+z
+java:S1104"XMake objectMapper a static final constant or non-public and provide accessors if needed.(’ÄÈíüÿÿÿÿ8‘úôò­1
+T
+java:S1444"2Make this "public static objectMapper" field final(’ÄÈíüÿÿÿÿ8‘úôò­1
+g
+java:S2095""JUse try-with-resources or close this "KafkaStreams" in a "finally" clause.(¿Ü´ø8¡úôò­1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ü½Äıÿÿÿÿ8»úôò­1

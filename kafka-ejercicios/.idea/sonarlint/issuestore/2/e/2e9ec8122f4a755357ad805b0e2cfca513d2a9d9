@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(žÁáÞýÿÿÿÿ8Ÿäÿñ­1
+\
+java:S6213$":Rename this variable to not match a restricted identifier.(´Å£Ÿýÿÿÿÿ8Þäÿñ­1
+F	java:S106%"+Replace this use of System.out by a logger.(ü²¦8Þäÿñ­1
+L	java:S106&"+Replace this use of System.out by a logger.(óÏ¼†úÿÿÿÿ8ßäÿñ­1
+G	java:S106'"+Replace this use of System.out by a logger.(•˜Žš8ßäÿñ­1
+G	java:S106("+Replace this use of System.out by a logger.(ñ„¤Û8ßäÿñ­1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8àäÿñ­1
